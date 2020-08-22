@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmanintu/git-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmanintu/git-test/issues"
+  },
+  "homepage": "https://github.com/wmanintu/git-test#readme",
+  "devDependencies": {
+    "chai": "*"
+  }
+}
